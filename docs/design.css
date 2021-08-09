@@ -25,10 +25,11 @@ body {
 }
 
 #card-section img {
-	height:60%;
+	height:800px;
 }
 
 #description {
 	font-size: 25px;
 	background-color: #ECECEC;
+	border-radius: 50px;
 }
